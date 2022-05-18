@@ -1,0 +1,14 @@
+C:\Users\CAN\source\repos\işyeri\işyeri\bin\Debug\işyeri.exe
+C:\Users\CAN\source\repos\işyeri\işyeri\bin\Debug\işyeri.pdb
+C:\Users\CAN\source\repos\işyeri\işyeri\obj\Debug\işyeri.csprojAssemblyReference.cache
+C:\Users\CAN\source\repos\işyeri\işyeri\obj\Debug\işyeri.Form1.resources
+C:\Users\CAN\source\repos\işyeri\işyeri\obj\Debug\işyeri.Properties.Resources.resources
+C:\Users\CAN\source\repos\işyeri\işyeri\obj\Debug\işyeri.csproj.GenerateResource.cache
+C:\Users\CAN\source\repos\işyeri\işyeri\obj\Debug\işyeri.csproj.CoreCompileInputs.cache
+C:\Users\CAN\source\repos\işyeri\işyeri\obj\Debug\işyeri.exe
+C:\Users\CAN\source\repos\işyeri\işyeri\obj\Debug\işyeri.pdb
+C:\Users\CAN\source\repos\işyeri\işyeri\bin\Debug\EntityFramework.dll
+C:\Users\CAN\source\repos\işyeri\işyeri\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\CAN\source\repos\işyeri\işyeri\bin\Debug\EntityFramework.xml
+C:\Users\CAN\source\repos\işyeri\işyeri\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\CAN\source\repos\işyeri\işyeri\obj\Debug\işyeri.csproj.CopyComplete
